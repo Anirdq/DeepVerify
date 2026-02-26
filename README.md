@@ -55,8 +55,8 @@ AI-generated content is proliferating across academic, journalistic, and social 
 | Deploy | Vercel + Render | Cloud hosting (free tier) |
 
 ## 👥 Team
-- **[Your Name]** — Product Owner + Frontend Developer
-- **[Partner Name]** — Scrum Master + Backend Developer
+- **Anirudh NM** — Product Owner + Frontend Developer
+- **Mohit J** — Scrum Master + Backend Developer
 
 ## 📅 Sprint Timeline
 
